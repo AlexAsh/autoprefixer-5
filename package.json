@@ -1,0 +1,8 @@
+{
+  "name": "autoprefixer-5",
+  "version": "1.0.0",
+  "description":"Autoprefixer legacy 5.x compatible",
+  "dependencies": {
+    "autoprefixer":"^5.x"
+  }
+}
